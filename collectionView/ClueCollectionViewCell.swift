@@ -8,7 +8,8 @@
 
 import UIKit
 
-class CollectionViewCell: UICollectionViewCell {
+class ClueCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var clueAlphabetLabel: UILabel!
     
+  
 }
